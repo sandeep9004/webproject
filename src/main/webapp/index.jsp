@@ -3,16 +3,16 @@
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: red;
 }
 
 h1 {
-  color: white;
+  color: green;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: yellow;
   font-size: 20px;
 }
 </style>
